@@ -10,7 +10,7 @@ public class Ascolto extends Thread{
         this.inServer = inServer; 
     }
 
-    @Override
+    /*@Override
     public void run() {
         do{
             String risposta = "";
@@ -42,5 +42,5 @@ public class Ascolto extends Thread{
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-    }
+    }*/
 }
